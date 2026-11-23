@@ -1,0 +1,36 @@
+body{
+    background-color:#f11c1c;
+    font-family:sans-serif;
+    text-align: center;
+}
+
+.kotak-ongkir{
+    background-color: rgb(26, 56, 186);
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow:  0px 4px 8px rgba(0, 0, 0, 1);
+}
+
+select {
+    padding: 16px;
+    width: 45%;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+button{
+    padding: 10px 25px;
+    background-color:#dfe221;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #e1d11e;
+}
